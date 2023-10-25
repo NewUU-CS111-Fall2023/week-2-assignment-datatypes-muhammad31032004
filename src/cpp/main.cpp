@@ -1,21 +1,15 @@
 /*
- * Author:
- * Date:
+ * Author: Mukhammadkhon Asrorov
+ * Date: 25.10.2023
  */
 
 #include <iostream>
-#include "task_1.h"
+
 
 int main() {
-    std::cout << "Task 1" << std::endl;
-    // call for task 1
-    std::cout << "Task 2" << std::endl;
-    // call for task 2
-    std::cout << "Task 3" << std::endl;
-    // call for task 3
     std::cout << "Task 4" << std::endl;
-    // call for task 4
+    #include "task_4.h"
     std::cout << "Task 5" << std::endl;
-    // call for task 5
+    #include "task_5.h"
     return 0;
 }
